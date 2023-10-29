@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/TestProjectsWithDima/Backend" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/TestProjectsWithDima/Backend/store" />
+      <excludeFolder url="file://$MODULE_DIR$/TestProjectsWithDima/Backend/Penis" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
